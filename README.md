@@ -1,4 +1,4 @@
-# Starboy
+
 In this repository, you will find the development of a quasi-static electric powertrain model. The process starts with:
 
 Drive Cycle
